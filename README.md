@@ -1,4 +1,4 @@
-### Salve!! Eu sou o Gabriel Ceruti
+### Olá!! Eu sou o Gabriel 
 
 ##
 
