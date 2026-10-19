@@ -14,7 +14,7 @@
 - 🤖 Crio **automações e fluxos** com n8n
 - 🌐 Já desenvolvi sites com HTML e CSS
 - 💡 Interesse em **acessibilidade e IA**
-- 🌱 Atualmente estudando: *(Marketing, IA(Claude AntiGravity), Cursor)*
+- 🌱 Atualmente estudando: *(Marketing, IA(Claude, Antigravity), Cursor)*
 
 ---
 
