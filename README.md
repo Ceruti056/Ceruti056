@@ -1,8 +1,8 @@
 <h1 align="center">Olá!! Eu sou o Gabriel 👋</h1>
 
 <p align="center">
-  Estudante de Programação 🎓 · Espírito Santo, Brasil 🇧🇷<br>
-  Desenvolvimento mobile, automações e soluções com IA
+  Estudante de Programação 🎓 · 
+  Desenvolvedor Back-end, Desenvolvimento mobile, automações e soluções com IA
 </p>
 
 ---
@@ -12,10 +12,9 @@
 - 📱 Desenvolvo aplicativos mobile com **Flutter e Dart**
 - 🔌 Estudo integração de apps com **APIs** e bancos de dados
 - 🤖 Crio **automações e fluxos** com n8n
-- 🎨 Prototipo interfaces no **Figma** antes de codar
 - 🌐 Já desenvolvi sites com HTML e CSS
-- 💡 Interesse em **acessibilidade e IA** (Projeto Inclusive Move IA)
-- 🌱 Atualmente estudando: *(preencha aqui, ex: arquitetura de apps, Supabase, Python)*
+- 💡 Interesse em **acessibilidade e IA**
+- 🌱 Atualmente estudando: *(Marketing, IA(Claude AntiGravity), Cursor)*
 
 ---
 
@@ -36,6 +35,14 @@
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+
+### IDEs e editores
+![Antigravity](https://img.shields.io/badge/Antigravity-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white)
+![NetBeans](https://img.shields.io/badge/NetBeans-1B6AC6?style=for-the-badge&logo=apachenetbeanside&logoColor=white)
+
 
 ### Design e automação
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
